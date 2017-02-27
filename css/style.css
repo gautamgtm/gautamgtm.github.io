@@ -43,8 +43,8 @@ a {
 }
 
 #work {
-  	font-size: 10px;
-  	font-style: "fira-sans-light"
+  	font-size: 25px;
+  	font-style: "fira-sans-light";
 	margin-top: 30px;
 	color: rgba(0, 0, 0, 0.25);
 }
